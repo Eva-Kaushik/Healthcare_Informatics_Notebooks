@@ -1,13 +1,7 @@
 # Machine Learning in Healthcare
 Here it's a list of the models: 
-* ECG Signal Classification with Wavelet Transform and Light Gradient Boosting Machines
-* Age Macular Degeneration Image Classifier
-* Angle Closure Glaucoma Image Classification & Regression
-* Blood Cells Image Detection
-* Skin Cancer Classifier
-* Gland(Colorectal Cancer) Segmentation
-* Glaucoma Image Classifier
-* Diabetic Retinopathy Image Classifier
-* Cell Nucleus Segmentation
-* Pathological Myopia Image Classifier
-* Pneumothorax Image Classifier  
+1.	Notebook 1: Automated Dermatological Lesion Detection Using Deep Learning
+2.	Notebook 2: ECG Signal Categorization Using Wavelet Analysis
+3.	Notebook 3: Gland Segmentation in Colorectal Cancer
+4.	Notebook 4: Pathological Myopia Segmentation and Prediction Techniques
+5.	Notebook 5: Identification of Pneumothorax (Punctured Lung)
