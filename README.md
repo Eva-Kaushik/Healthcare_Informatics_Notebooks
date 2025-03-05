@@ -5,3 +5,5 @@ Here it's a list of the models:
 3.	Notebook 3: Gland Segmentation in Colorectal Cancer
 4.	Notebook 4: Pathological Myopia Segmentation and Prediction Techniques
 5.	Notebook 5: Identification of Pneumothorax (Punctured Lung)
+
+This notebook is a collaborative effort of Eva Kaushik (kaushikeva0026@gmail.com) and Rohit Kaushik (kaushikrohit004@gmail.com)
