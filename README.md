@@ -6,4 +6,4 @@ Here it's a list of the models:
 4.	Notebook 4: Pathological Myopia Segmentation and Prediction Techniques
 5.	Notebook 5: Identification of Pneumothorax (Punctured Lung)
 
-This notebook is a collaborative effort of Primary-Rohit Kaushik (kaushikrohit004@gmail.com) and Eva Kaushik (kaushikeva0026@gmail.com) 
+This notebook is a collaborative effort of Primary-Rohit Kaushik (kaushikrohit004@gmail.com) and Eva Kaushik (kaushikeva0026@gmail.com), for more details please check the published IEEE manuscript.
